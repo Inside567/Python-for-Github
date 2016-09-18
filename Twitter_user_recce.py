@@ -15,7 +15,7 @@ t1 = time.clock()
 
 localtime = time.asctime( time.localtime(time.time()) )
 
-#authentication pieces
+#authentication pieces - ADD YOUR TWITTER API KEYS HERE 
 
 client_key = ""
 client_secret = ""
