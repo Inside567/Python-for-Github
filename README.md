@@ -14,6 +14,6 @@ Lowest retweet value
 
 Currently it can only accept one target at the commandline, i.e.:
 
-pything twitter_user_recce.py bbcbreaking
+python twitter_user_recce.py bbcbreaking
 
 You need to edit the script to add your own Twitter API keys.
